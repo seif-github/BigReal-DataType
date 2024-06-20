@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1699044859 source:d:\oopassign2repo\realbigclass\main.cpp
+	<bits/stdc++.h>
+	"BigReal.h"
+
+1699045641 d:\oopassign2repo\realbigclass\include\bigreal.h
+	<bits/stdc++.h>
+
+1699045678 source:d:\oopassign2repo\realbigclass\src\bigreal.cpp
+	"BigReal.h"
+	<bits/stdc++.h>
+
+1699223401 source:d:\oopassign2repo\realbigclass\task_2_bigreal\main.cpp
+	<bits/stdc++.h>
+	"BigReal.h"
+
+1699181169 d:\oopassign2repo\realbigclass\task_2_bigreal\include\bigreal.h
+	<bits/stdc++.h>
+
+1699223332 source:d:\oopassign2repo\realbigclass\task_2_bigreal\src\bigreal.cpp
+	"BigReal.h"
+	<bits/stdc++.h>
+
